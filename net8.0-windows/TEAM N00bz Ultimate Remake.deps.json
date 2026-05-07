@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TEAM N00bz Ultimate Remake/1.0.0": {
+        "runtime": {
+          "TEAM N00bz Ultimate Remake.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TEAM N00bz Ultimate Remake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
